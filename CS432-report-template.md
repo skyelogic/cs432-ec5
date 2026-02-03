@@ -1,7 +1,7 @@
-# HW# - Title
-### Your Name
+# HW# - EC 0.6 - Reports
+### Donnel Garner
 ### CS 432, Spring 2026
-### Due Date
+### 02/06/2026
 
 # Q1
 
